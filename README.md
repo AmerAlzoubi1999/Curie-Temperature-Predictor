@@ -39,6 +39,9 @@ Amer's research focus spans a rich tapestry of topics at the intersection of mat
 
 - **Machine and Deep Learning:** Harnessing the power of machine learning and deep learning for data analysis, predictive modeling, and insights generation in materials science.
 
+**Contact Information:**
+- **Email:** Amer.alzoub2020@gmail.com
+
 Amer Alzoubi's multifaceted research endeavors exemplify a commitment to pushing the boundaries of knowledge in materials science and leveraging data-driven approaches to make meaningful contributions to the field. With a profound curiosity for the mysteries of the material world, Amer is poised to continue his journey of exploration and discovery.
 
 ## Usage
